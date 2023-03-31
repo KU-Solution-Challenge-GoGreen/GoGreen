@@ -1,0 +1,6 @@
+[submodule "GoGreen-App"]
+	path = GoGreen-App
+	url = https://github.com/KU-Solution-Challenge-GoGreen/GoGreen-App.git
+[submodule "GoGreen-Server"]
+	path = GoGreen-Server
+	url = https://github.com/KU-Solution-Challenge-GoGreen/GoGreen-Server.git
